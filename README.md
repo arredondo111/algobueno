@@ -1,0 +1,2 @@
+# algobueno
+trabajo de fundamentos
